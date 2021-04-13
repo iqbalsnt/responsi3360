@@ -1,0 +1,13 @@
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\bin\Debug\netcoreapp3.1\ResponsiPemrograman3360.exe
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\bin\Debug\netcoreapp3.1\ResponsiPemrograman3360.deps.json
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\bin\Debug\netcoreapp3.1\ResponsiPemrograman3360.runtimeconfig.json
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\bin\Debug\netcoreapp3.1\ResponsiPemrograman3360.runtimeconfig.dev.json
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\bin\Debug\netcoreapp3.1\ResponsiPemrograman3360.dll
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\bin\Debug\netcoreapp3.1\ResponsiPemrograman3360.pdb
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\obj\Debug\netcoreapp3.1\ResponsiPemrograman3360.csprojAssemblyReference.cache
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\obj\Debug\netcoreapp3.1\ResponsiPemrograman3360.AssemblyInfoInputs.cache
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\obj\Debug\netcoreapp3.1\ResponsiPemrograman3360.AssemblyInfo.cs
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\obj\Debug\netcoreapp3.1\ResponsiPemrograman3360.csproj.CoreCompileInputs.cache
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\obj\Debug\netcoreapp3.1\ResponsiPemrograman3360.dll
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\obj\Debug\netcoreapp3.1\ResponsiPemrograman3360.pdb
+E:\pemrograman\ResponsiPemrograman3360\ResponsiPemrograman3360\obj\Debug\netcoreapp3.1\ResponsiPemrograman3360.genruntimeconfig.cache
